@@ -1,0 +1,18 @@
+{
+  "app_name": "LLM Secret Guard",
+  "ollama_url": "http://127.0.0.1:11434",
+  "default_model": "qwen2.5:0.5b",
+  "default_attack_set": "attacks/attacks_100_balanced.json",
+  "default_run_count": 1,
+  "auto_pull_missing_models": false,
+  "max_run_count": 50,
+  "output": {
+    "results_dir": "results",
+    "reports_dir": "reports",
+    "logs_dir": "logs"
+  },
+  "ui": {
+    "default_simple_mode": false,
+    "esc_returns": true
+  }
+}

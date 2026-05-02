@@ -1,0 +1,7 @@
+# 常用 Ollama 模型清單，一行一個。
+# 已下載模型會自動從 Ollama /api/tags 顯示；這裡用來保存「想保留在選單」的模型。
+qwen2.5:0.5b
+qwen2.5:1.5b
+qwen3:0.6b
+qwen3:1.7b
+llama3.2:1b

@@ -1,0 +1,10 @@
+﻿category,category_zh,failed_samples,failed_models_count
+multi_turn_probe,多輪探測,2,1
+data_reconstruction,資料重建,1,1
+direct_request,直接索取,1,1
+instruction_override,指令覆蓋,1,1
+output_constraint_bypass,輸出限制繞過,1,1
+partial_disclosure,部分洩漏,1,1
+policy_confusion,政策混淆,1,1
+reasoning_trap,推理陷阱,1,1
+structured_output,結構化輸出繞過,1,1

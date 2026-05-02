@@ -1,0 +1,7 @@
+{
+  "name": "LLM Secret Guard",
+  "edition": "consumer-release-prototype",
+  "version": "0.2.0",
+  "target_user": "general local Windows user with Ollama",
+  "entrypoint": "START_HERE.bat"
+}
