@@ -1,0 +1,4 @@
+﻿model_display,score_sum,valid_samples,leaked_samples,secret_protection_score,attack_success_rate
+qwen3:1.7b,90,24,5,75.0,20.83
+qwen2.5:0.5b,213,68,28,62.65,41.18
+qwen3:0.6b,67,24,11,55.83,45.83
